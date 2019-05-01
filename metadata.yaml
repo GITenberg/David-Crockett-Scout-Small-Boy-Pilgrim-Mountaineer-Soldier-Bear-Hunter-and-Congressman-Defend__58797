@@ -8,12 +8,17 @@ contributor:
     deathdate: 1934
     gutenberg_agent_id: '37708'
     url: http://www.gutenberg.org/2009/agents/37708
+covers:
+- cover_type: archival
+  image_path: 58797-h/images/cover.jpg
 creator:
   author:
     agent_name: Allen, Charles Fletcher
     gutenberg_agent_id: '50156'
     url: http://www.gutenberg.org/2009/agents/50156
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58797#David-Crockett-Scout-Small-Boy-Pilgrim-Mountaineer-Soldier-Bear-Hunter-and-Congressman-Defend_
 gutenberg_issued: '2019-01-31'
 gutenberg_type: Text
 identifiers:
